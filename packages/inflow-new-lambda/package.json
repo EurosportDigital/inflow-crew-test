@@ -1,0 +1,11 @@
+{
+  "name": "@inflow/new-lambda",
+  "version": "1.0.0",
+  "description": "Inflow new lambda",
+  "private": true,
+  "main": "./src",
+  "scripts": {
+    "test": "npx jest --clearMocks",
+    "build": "webpack"
+  }
+}
